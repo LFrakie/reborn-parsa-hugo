@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://lfrakie.github.io/reborn-parsa-hugo/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"

@@ -5,6 +5,6 @@ description = "DE ETST"
 image = "images/netlogo.jpg"
 tags = ["art "]
 title = "TEST 4"
-type = ""
+type = "featured"
 
 +++

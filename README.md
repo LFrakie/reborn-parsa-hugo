@@ -1,5 +1,11 @@
 <h1 align=center>Parsa Hugo | <a target="_blank" href="https://demo.gethugothemes.com/parsa" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fparsa%2F">Page Speed (83%)</a></h1>
 
+RUN PROJECT
+
+```bash
+hugo server --themesDir ../.. --bind=0.0.0.0 --baseURL=http://192.168.0.130:1313
+```
+
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.62.2" alt="Contributors">
     <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.62.2&color=f00&logo=hugo" />

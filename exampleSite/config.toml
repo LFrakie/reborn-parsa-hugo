@@ -1,4 +1,4 @@
-baseurl = "/reborn-parsa-hugo"
+baseurl = "/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = "6"
